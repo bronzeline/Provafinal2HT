@@ -1,0 +1,4 @@
+dist = float(input("Qual a distância percorrida pelo automóvel ? "))
+gasolina = float(input("Qual a quantidade de gasolina consumida ? "))
+consumomedio = dist / gasolina
+print("O consumo médio é de: ", consumomedio)
