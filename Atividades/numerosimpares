@@ -1,0 +1,8 @@
+g = 1
+while g <= 100:
+    if g % 2 != 0:
+        print(g)
+    g += 1
+for g in range(1, 101):
+    if g % 2 != 0:
+        print(g)
